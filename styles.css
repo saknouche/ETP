@@ -1,0 +1,16 @@
+#crise{
+    font-size: 30px;
+}
+
+#decision{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+#elements{
+    display: none;
+}
+
+.mt{
+    margin-top: 20px;
+}
